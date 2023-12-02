@@ -21,7 +21,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your_username/rossman-store-sales-prediction.git
+git clone https://github.com/MuhammadTalha121/ML-Rossman-Sales-Prediction-.git
 Install the required dependencies.
 
 bash
